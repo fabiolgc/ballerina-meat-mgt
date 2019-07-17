@@ -1,0 +1,5 @@
+["b7a.users"]
+
+["b7a.users.fabio"]
+password="wso2@123"
+scopes="scope1,scope2,scope3"
